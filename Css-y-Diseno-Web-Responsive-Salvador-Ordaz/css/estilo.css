@@ -181,8 +181,8 @@ section #img-derecha-dos
   float: left;
   margin: 5% 0 0 10%;
   border: 1px solid;
-  -webkit-box-shadow: 2px 2px 2px #02010a;
-  -moz-box-shadow: 2px 2px 2px #02010a;
+  -webkit-box-shadow: 2px 2px 2px #82c3a6;
+  -moz-box-shadow: 2px 2px 2px #82c3a6;
 }
 
 #img-izquierda img:hover{
@@ -273,8 +273,8 @@ section #img-derecha-dos
   float: right;
   margin: 5% 10% 0 0;
   border: 1px solid;
-  -webkit-box-shadow: 2px 2px 2px #02010a;
-  -moz-box-shadow: 2px 2px 2px #02010a;
+  -webkit-box-shadow: 2px 2px 2px #82c3a6;
+  -moz-box-shadow: 2px 2px 2px #82c3a6;
 }
 
 #img-derecha img:hover{
